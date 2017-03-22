@@ -35,9 +35,9 @@ Seeing and monitoring the project helps us to make it successful and in this way
 
 ## Quality Parameters and Result
 
-|  |  |
-| -  -      |
-| Efficiency | Usability |
+| 1 | 2 |
+| -  |-  |
+| Efficiency | Comparability |
 | Understandability | Testability |
 | Usability | Safety |
 
