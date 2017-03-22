@@ -47,12 +47,12 @@ According to these features, the project has been created.
 #### LoginScreen:
 Normal User and Admin Login button by using icon and menu bar.
 
-![alt tag](Student-Information-System/Screenshots/res4.JPG)
+![alt tag](https://github.com/mgulesci/Student-Information-System/blob/master/Screenshots/res4.JPG)
 
 #### Open Screen:
 JTable MySQL database data’s.
 
-![alt tag](Student-Information-System/Screenshots/res1.JPG)
+![alt tag](https://github.com/mgulesci/Student-Information-System/blob/master/Screenshots/res1.JPG)
 
 ***Administrator interface:***
 Add a new student, View student, logout button.</br>
@@ -60,7 +60,7 @@ Add a new student, View student, logout button.</br>
 View student logout button.
 
 #### StudentView:
-![alt tag](Student-Information-System/Screenshots/res3.JPG)
+![alt tag](https://github.com/mgulesci/Student-Information-System/blob/master/Screenshots/res3.JPG)
 
 ***Administrator interface:***
 Student details, Edit (Delete, Save, Change image), Logout button.</br>
@@ -70,17 +70,17 @@ Student details, Edit (Delete, Save, Change image), Logout button.</br>
 #### Add a new Student:
 Administrator interface: Browse picture, save, Logout button.
 
-![alt tag](Student-Information-System/Screenshots/res2.JPG)
+![alt tag](https://github.com/mgulesci/Student-Information-System/blob/master/Screenshots/res2.JPG)
 
 ##### Extra
 As an extra we can print the page in specific type which we choose.
 
-![alt tag](Student-Information-System/Screenshots/res5.JPG)
+![alt tag](https://github.com/mgulesci/Student-Information-System/blob/master/Screenshots/res5.JPG)
 
 ## Use Case Diagram
 This is use case diagram for this project.
 
-![alt tag](Student-Information-System/Screenshots/usecase.JPG)
+![alt tag](https://github.com/mgulesci/Student-Information-System/blob/master/Screenshots/usecase.JPG)
 
 # Contact me
 You can reach this project on [![alt text][3.1]][6]
